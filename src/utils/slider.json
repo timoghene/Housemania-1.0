@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alumni Building",
+    "price": "45,000",
+    "detail": "Babcock university, Ilishan Remo, Ogun State",
+    "image": "./r1.png"
+    },
+  {
+    "name": "Busa House",
+    "price": "62,300",
+    "detail": "Babcock university, Ilishan Remo, Ogun State",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Bethel Splendor",
+    "price": "25,850",
+    "detail": "Babcock university, Ilishan Remo, Ogun State",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Samuel Akande",
+    "price": "44,043",
+    "detail": "Babcock university, Ilishan Remo, Ogun State",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Asatti Garden City",
+    "price": "67,350",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Citralan Puri Serang",
+    "price": "32,857",
+    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "image": "./r3.png"
+  }
+]
